@@ -1,0 +1,6 @@
+verna
+vento
+rapid
+accord
+sonata
+contessa
